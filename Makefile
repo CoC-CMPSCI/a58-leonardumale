@@ -9,3 +9,4 @@ clean:
 	rm -rf __pycache__
 	rm -rf *.dSYM
 	rm -f result*.txt
+	rm -f students.txt
